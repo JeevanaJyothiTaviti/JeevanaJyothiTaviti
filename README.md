@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeevanaJyothiTaviti
+- 👋 Hi, I’m Jeevana Jyothi
 - 👀 I’m interested in coding and solving problems
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking forward to collaborate on Interesting Machine learning and Deep learning projects
